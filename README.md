@@ -26,6 +26,12 @@ It features a dynamic catalog, filtering, cart system, checkout form, and stylis
 
 ---
 
+## 🧪 Live Demo
+
+👉 [https://autozone-0-1-1.vercel.app/](https://autozone-0-1-1.vercel.app/)
+
+---
+
 ## 🛠 Getting Started
 
 ```bash
@@ -36,12 +42,6 @@ npm start
 ```
 
 Visit: `http://localhost:3000`
-
----
-
-## 📸 Screenshots
-
-_Add screenshots in the future here if needed._
 
 ---
 
